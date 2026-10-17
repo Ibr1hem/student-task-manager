@@ -1,0 +1,6 @@
+{
+  "name": "Student Task Manager",
+  "description": "A clean, functional task and assignment management web application for university students to track coursework, deadlines, and completion status.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
